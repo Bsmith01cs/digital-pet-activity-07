@@ -80,7 +80,7 @@ flutter test
 
 ## Asset attribution
 
-`assets/pet.png` is an original image made for this project. It is drawn in light gray and white so the `BlendMode.modulate` tint shows clearly.
+`assets/pet.png` is an original cartoon dog made for this project, so it needs no outside attribution. It has white fur, light-gray ears, and a transparent background so the `BlendMode.modulate` tint shows clearly.
 
 ## Git / PR evidence
 
